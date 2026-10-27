@@ -1,0 +1,17 @@
+﻿node_modules/
+.next/
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.env
+.env.local
+.env*.local
+dist/
+build/
+*.log
+*.zip
+.venv/
+node.exe
+semgrep-core.exe
